@@ -18,7 +18,7 @@ Entre las funcionalidades destacan las típicas de un Chat:
 
 ## Uso y Testeo
 
-1. Tras iniciar el Servidor y el primer Cliente, se nos solicitará el *Nombre de usuario* a utilizar en el Chat, el *Host* ó dirección IP del Servidor, y el *Puerto* del mismo. Si los dejamos por defecto usará *localhost (127.0.0.1)* y el puerto *8989* (Si dicho puerto estuviera ocupado daría un fallo y se tendría que modificar el mismo)
+1. Tras iniciar el Servidor y el primer Cliente, se nos solicitará el *Nombre de usuario* a utilizar en el Chat, el *Host* ó dirección IP del Servidor, y el *Puerto* del mismo. Si los dejamos por defecto usará *localhost (127.0.0.1)* y el puerto *8989* (Si dicho puerto estuviera ocupado daría un fallo y se tendría que modificar el mismo en la aplicación del lado del Servidor)
 
 ![img](capturas/captura1.png)
 
