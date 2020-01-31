@@ -1,6 +1,6 @@
 # Chat_MultiUsuario
 
-Proyecto de la asignatura de *Fundamentos de Redes* en el que he desarrollado desde cero una aplicacin de escritorio Cliente - Servidor, la cual consiste en un Chat Grupal y Privado. 
+Proyecto de la asignatura de *Fundamentos de Redes* en el que he desarrollado desde cero una aplicación de escritorio Cliente - Servidor, la cual consiste en un Chat Grupal y Privado. 
 
 Está basada en el uso de Sockets TCP en Java (openJDK 8).
 
